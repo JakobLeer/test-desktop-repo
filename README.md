@@ -6,3 +6,5 @@ git add
 git commit
 git push
 ```
+
+It remains to be seen what my preferences are.
